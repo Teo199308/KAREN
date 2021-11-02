@@ -1,0 +1,14 @@
+img {
+  display: block;margin: auto;
+}
+.titulo{
+  text-align: center;color:#005677
+  ; background-color:#C4C4C4
+}
+.Subtitulos{
+  color:#005677
+  ; background-color:#C4C4C4
+}
+.modificacionDeEspacios{line-height: 4px;}
+.parrafoFinal {text-align: center;color:#FFFFFF; background-color:#005677}
+.parrafoFinal {display: block;margin: auto;}
